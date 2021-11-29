@@ -7,5 +7,6 @@ public class Player : MonoBehaviour
     private void Start()
     {
         Debug.Log("Hello");
+        Debug.Log("Start");
     }
 }
