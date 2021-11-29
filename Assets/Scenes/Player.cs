@@ -6,7 +6,7 @@ public class Player : MonoBehaviour
 {
     private void Start()
     {
-        Debug.Log("Hello");
-        Debug.Log("Start");
+        Debug.Log("Hello from Branch gm_feature");
+        Debug.Log("Start from Branch gm_feature");
     }
 }
